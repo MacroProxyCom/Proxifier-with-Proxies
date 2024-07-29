@@ -1,4 +1,6 @@
 # Proxifier-with-Proxies
+![f7621c0a-d2c7-4019-b71d-bad5da950d24](https://github.com/user-attachments/assets/77f6d4d5-9d31-4002-a092-6692863d4257)
+
 A Comprehensive Guide to Setting Up Proxifier Proxies.
 
 # What Is Proxifier?
